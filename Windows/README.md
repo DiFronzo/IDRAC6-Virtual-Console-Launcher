@@ -28,7 +28,7 @@
 
 * **Powershell error after inserting "Host/IP"**
 
-**Try downloading the file "avctKVM.jar" manually from https://IDRACIP:443/software/avctKVM.jar, and place the file like described under "File Structure". Or try using a IP-address rather then hostname.**
+**Try downloading the file "avctKVM.jar" manually from https://IDRACIP:443/software/avctKVM.jar, and place the file like described under "File Structure". Or try using an IP-address rather then hostname.**
 
 * **I want to help, what can i do?**
 
