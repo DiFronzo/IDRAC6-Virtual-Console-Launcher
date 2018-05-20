@@ -9,7 +9,10 @@ Start the virtual console without the need of Java Web Start or accessing it fro
 
 ### TO-DO Windows
 
-- [ ] Port scan for 5900
+- [ ] Port scan for 5900 - if not open, return error message
+- [ ] Automatically download the JRE folder
+- [ ] Change it to a PowerShell script
+- [ ] Pack it to an exe file
 
 ### TO-DO MacOS
 
