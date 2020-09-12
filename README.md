@@ -4,7 +4,7 @@ Start the virtual console without the need of Java Web Start or accessing it fro
 ## TO-DO
 ### Working OS
 - [X] Windows
-- [ ] MacOS
+- [X] MacOS
 - [ ] Linux
 
 ### TO-DO Windows
@@ -16,7 +16,7 @@ Start the virtual console without the need of Java Web Start or accessing it fro
 
 ### TO-DO MacOS
 
-- [ ] Soon
+- [ ] Better error handling
 
 ### TO-DO Linux
 
