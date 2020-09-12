@@ -1,9 +1,10 @@
 
 # IDRAC 6 VC for MacOS
 Tested with MacOS Catalina 10.15.6 (19G2021)
-1. <code>git clone https://github.com/DiFronzo/IDRAC6-Virtual-Console-Launcher</code>
+1. <code>$git clone https://github.com/DiFronzo/IDRAC6-Virtual-Console-Launcher</code>
 2. <code>$cd MacOS</code>
 3. <code>$chmod +x idrac.sh</code>
+3. <code>$./idrac.sh</code>
 6. Insert IP-address or Hostname of the IDRAC interface.
 6. Insert port of the IDRAC interface. Blank for 5900.
 7. Insert Username for IDRAC (same as Web Gui). Blank for root.
