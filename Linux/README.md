@@ -18,8 +18,8 @@
 ```javascript
 |-- idrac.sh
 |-- avctKVM.jar (idrac.sh downloads this file)
-|-- JRE
-    |-- (A lot of files under her)
+|-- jre
+    |-- (A lot of files under here)
 ```
 
 ---
