@@ -5,7 +5,6 @@
 2. <code>$cd Linux</code>
 3. Download JRE 7 server from Oracle (https://goo.gl/ma3Qu4) (Require a user account)
 4. Exstract the JRE folder and put it in the original folder (see "File Structure").
-5. <code>$chmod +x idrac.sh</code>
 6. <code>$./idrac.sh</code>
 6. Insert IP-address or Hostname of the IDRAC interface.
 6. Insert port of the IDRAC interface. Blank for 5900.
